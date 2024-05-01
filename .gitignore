@@ -127,6 +127,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+models/
+huggingface/
 
 # Spyder project settings
 .spyderproject
